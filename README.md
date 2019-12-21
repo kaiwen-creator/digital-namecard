@@ -1,1 +1,1 @@
-# digital-namecard
+# Gary Gee - Knoteq Distribution
